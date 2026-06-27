@@ -6,6 +6,12 @@ A local, fully free pipeline for generating faceless YouTube videos from a plain
 
 ---
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/733682cd-a241-458c-b22e-d48ad7eca8a4" alt="youtube-pipeline" width="600">
+</p>
+
+---
+
 ## What it does
 
 You write (or generate) a script. The pipeline handles the rest:
