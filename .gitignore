@@ -1,0 +1,17 @@
+# Generated output
+output/
+_pasted_script.txt
+
+# Large model files (download on first run)
+*.onnx
+*.bin
+*.pth
+*.index
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Config with secrets
+# config.json is committed but with blank pexels_key — don't commit real keys

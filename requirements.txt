@@ -1,0 +1,5 @@
+# Just run setup.bat (it installs all of this for you).
+kokoro-onnx
+faster-whisper
+numpy
+imageio-ffmpeg
